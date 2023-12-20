@@ -1,0 +1,5 @@
+{
+  "US": { "myKey": true },
+  "CA": { "myKey": true },
+  "MX": { "newKey": false }
+}
